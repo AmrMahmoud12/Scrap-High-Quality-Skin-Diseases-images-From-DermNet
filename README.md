@@ -16,3 +16,5 @@ Minimum memory : 4 and it is desirable to have much more
 2- low memory causes system block , be carefull !!
 
 3- images size near 2 GB and they are nearly 20000 images of high quality.
+
+if you will not use it for now , just star and fork it to  make it easy reached for you again 
